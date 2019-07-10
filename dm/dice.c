@@ -16,8 +16,8 @@ int main(void){
 total = a + b;
 printf("Total Value : %d \n" , total );
 
-if(total >= 7)printf("You win.\n");
-else printf("You lose.\n");
+if(total >= 7)printf("You won.\n");
+else printf("You lost.\n");
 
 return 0;
 }
